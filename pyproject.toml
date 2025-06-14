@@ -1,0 +1,9 @@
+[project]
+name = "sitestats"
+version = "0.1.0"
+description = "Resources associated with SiteStats"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cyclopts>=3.19.0",
+]
